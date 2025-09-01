@@ -2,7 +2,7 @@
 
 A command-line tool to convert a local Markdown file to HTML and email it to your Kindle device.
 
-This tool is perfect for sending articles, notes, or any Markdown-formatted text to your Kindle for easy reading. It supports sending to multiple Kindle devices and gracefully handles Markdown images by converting them to links.
+This tool is perfect for sending articles, notes, or any Markdown-formatted text to your Kindle for easy reading. It supports sending to multiple Kindle devices and gracefully handles embedded-link Markdown images by converting them to links.
 
 ## Features
 
