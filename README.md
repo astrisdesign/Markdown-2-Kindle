@@ -1,4 +1,4 @@
-# markdown2kindle
+# Markdown 2 Kindle
 
 A command-line tool to convert a local Markdown file to HTML and email it to your Kindle device.
 
